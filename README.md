@@ -1,4 +1,4 @@
-## A simple AWS Cloud Formation templatee
+## A simple AWS Cloud Formation template
 
 
 ### To use this template 
